@@ -2,7 +2,7 @@
 
 Une application web interactive permettant de rechercher et d'explorer des Pokémon à l'aide de l'API PokéAPI.
 
-##🚀 Ses fonctionnalités
+## 🚀 Ses fonctionnalités
 
 - 🔍 Recherche de Pokémon par nom ou ID
 - 📸 Affichage des images officielles
